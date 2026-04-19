@@ -211,8 +211,5 @@ pip install python-igraph leidenalg
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
 *Bioinformatics Assignment — Single-Cell RNA-seq Analysis*
 *April 2026*
